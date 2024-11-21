@@ -1,5 +1,7 @@
 # Activ2-EstructuraDatos - Jhon Arrieta
 
+Nota: Recomiendo que si no eres el profesor Arrieta y estas en mi actividad, la recomendacion es que lo intentes por ti mismo, no copiando y pegando en tu actividad, recuerda que no engañas al profesor, te engalas tu.
+
 Realice los siguientes ejercicios en lenguaje de programación JAVA. Debe entregar un archivo comprimido con la solución en JAVA de los ejercicios:
 
 Calcular la media de los elementos de un arreglo de números enteros.
@@ -21,3 +23,6 @@ Concatenar dos arreglos de cadenas.
 Eliminar elementos impares de un arreglo de números enteros.
 
 Calcular la suma de los elementos de una diagonal de una matriz cuadrada.
+
+
+
